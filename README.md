@@ -1,18 +1,8 @@
 # Advanced-OS-Info
-A program for seeing some information of your OS and more
+A program for displaying information about your OS and your pc that can be used for multiple porpuses.
 
-List of info you can see (v1.0) :
+This is an image of the interface and the info that it shows:
 
-OS info (19 entries)
-
-PC info (2 entries)
-
-RAM info (4 entries)
-
-Screen info (2 entries)
-
-Clock info (3 entries)
-
-More info will be added in future releases
+![Screenshot_7](https://user-images.githubusercontent.com/69941154/169421964-b3179262-cc21-4d88-99be-ade8a6a450a2.png)
 
 Made with Visual Studio (VB.NET 5.0)
